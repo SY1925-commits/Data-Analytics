@@ -1,4 +1,5 @@
-﻿"endTime","artistName","trackName","msPlayed"
+﻿# Spotify streaming data
+"endTime","artistName","trackName","msPlayed"
 "2025-11-18 14:10","*NSYNC","Bye Bye Bye","149211"
 "2025-11-19 14:17","Vanessa Carlton","A Thousand Miles","2162"
 "2025-11-19 14:17","Michael Bublé","Feeling Good","3719"
